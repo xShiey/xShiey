@@ -1,4 +1,4 @@
-## Hello, Here's something about me :/
+## Hello, Here's something about me
 
 Languages and Tools I've worked with:
 <div align="center">  
