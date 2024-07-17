@@ -53,12 +53,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/xShinxbi/xShinxbi/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/xShinxbi/count.svg?"  />
 </div>
