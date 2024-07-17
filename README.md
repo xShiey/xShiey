@@ -55,8 +55,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/xShinxbi/xShinxbi/output/snake.svg" alt="Snake animation" />
 
 ###
