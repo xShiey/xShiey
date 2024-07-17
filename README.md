@@ -1,5 +1,4 @@
-# Hello!
-
+Hello!
 <h3 align="center">Here's a few things about me</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xshinxbi&label=Profile%20views&color=500eb4&style=flat-square" alt="xshinxbi" /> </p>
