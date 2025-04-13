@@ -1,4 +1,4 @@
-<h3 align="center">Here's a few things about me I guess</h3>
+<h3 align="center">Here's a few things I know</h3>
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
